@@ -1,3 +1,5 @@
-requests
+fastapi
+uvicorn
 python-dotenv
 sgp4
+requests
